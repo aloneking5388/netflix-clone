@@ -19,7 +19,7 @@ export default function UserNav() {
         <Button variant="ghost" className="relative h-10 w-10 rounded-sm">
           <Avatar className="h-10 w-10 rounded-sm">
             <AvatarImage src="https://nkljkwikhlggqlnjctge.supabase.co/storage/v1/object/public/user%20image/avatar.png" />
-            <AvatarFallback className="rounded-sm">Jan</AvatarFallback>
+            <AvatarFallback className="rounded-sm">Alone</AvatarFallback>
           </Avatar>
         </Button>
       </DropdownMenuTrigger>
